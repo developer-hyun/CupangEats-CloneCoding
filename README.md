@@ -23,7 +23,8 @@
 
 # 주요 기능
 
-![image](https://user-images.githubusercontent.com/84491771/159490038-bb231e03-5d71-4ccf-8995-4fa3ed6eaf1f.png width="300" height="400")![image](https://user-images.githubusercontent.com/84491771/159490108-697cbedf-2fd1-4242-99b0-023eb5714a6d.png)
+<img src="https://user-images.githubusercontent.com/84491771/159490038-bb231e03-5d71-4ccf-8995-4fa3ed6eaf1f.png  width="200" height="400"/><img src="https://user-images.githubusercontent.com/84491771/159490108-697cbedf-2fd1-4242-99b0-023eb5714a6d.png  width="200" height="400"/>
+
 
 
 

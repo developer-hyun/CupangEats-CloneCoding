@@ -9,3 +9,13 @@
 # Clone Coding 서버 구조
 
 ![image](https://user-images.githubusercontent.com/84491771/159438398-af753700-a483-421b-b2c2-7c50d22fcd92.png)
+
+
+<br/>
+
+# ERD 설계
+
+<br/>
+
+# 주요 기능
+
